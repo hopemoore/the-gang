@@ -1,2 +1,2 @@
 # the-gang
- The Gang's website
+ SkillShare course
